@@ -1,8 +1,8 @@
 # taller_recursividad
 
-Estos son ejercicios de recursividad,
+Estos son ejercicios de recursividad:
 
-#PETICIONES:
+# PETICIONES:
 1.Leer un numero entero y n
 calcular la factorial de dicho numero.
 
